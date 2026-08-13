@@ -1,0 +1,12 @@
+# usar pip install -r requirements.txt evita conflitos que o conda install pode causar.pip install -r requirements.txt
+pandas
+numpy
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+matplotlib
+seaborn
+plotly
+scipy
+scikit-learn
+
